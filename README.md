@@ -12,14 +12,25 @@ Full Stack Developer | B.Tech CSE | MERN Stack | India 🇮🇳
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450">
 </p>
+---
+<p align="center">
+  <i>"First, solve the problem. Then, write the code."</i> – John Johnson
+</p>
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Govind-Malav&label=Profile%20views&color=blueviolet&style=flat" />
+</p>
+  
 
 
 ## 🚀 About Me
-- 🎓 B.Tech Computer Science Student  
-- 💻 Full Stack Developer  
-- 🌱 Currently learning **System Design & Backend Scaling**
-- 🧠 Love solving real-world problems with code  
-- ⚡ Fun fact: I turn coffee into code ☕
+
+🎓 B.Tech Computer Science Engineer  
+💻 Full Stack Developer (MERN)  
+⚡ Passionate about building scalable web applications  
+🧠 Currently diving deep into System Design & Backend Architecture  
+🚀 Open to Internship Opportunities  
+🔥 Goal: Become a top-tier software engineer
 
 ---
 
@@ -54,6 +65,17 @@ Full Stack Developer | B.Tech CSE | MERN Stack | India 🇮🇳
 </p>
 
 
+---
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Govind-Malav&theme=tokyonight&no-fra
+---
+<h2 align="center">📈 Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Govind-Malav&theme=tokyo-night&hide_border=true"/>
+</p>
 ---
 
 ## 🔥 Streak Stats
