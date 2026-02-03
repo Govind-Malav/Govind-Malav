@@ -1,6 +1,10 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Node.js+Developer;React+Enthusiast;Open+Source+Learner&center=true&width=500&height=50">
+</p> -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hey!+I'm+Govind+Malav+👋;Full+Stack+Developer;Node.js+Lover;React+Builder;Always+Learning+New+Things+🚀&center=true&width=600&height=50">
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Govind Malav</h1>
 <h3 align="center">Full Stack Developer | B.Tech CSE | Building Scalable Web Apps</h3>
