@@ -10,9 +10,9 @@
 Full Stack Developer | B.Tech CSE | MERN Stack | India 🇮🇳
 </h3>
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDh5dGU1eWpqNWs2aDFlbmEwcWRkNW5odWdic29nMmh0cmVvb29hNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8od0dlwG9LD7eMbt3p/giphy.gif" width="450">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450">
 </p>
----
+
 <p align="center">
   <i>"First, solve the problem. Then, write the code."</i> – John Johnson
 </p>
