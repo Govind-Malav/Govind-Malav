@@ -53,3 +53,4 @@
 ---
 
 ⭐️ From [GovindMalav](https://github.com/YOUR_USERNAME)
+![Snake animation](https://github.com/Govind-Malav/Govind-Malav/blob/output/github-contribution-grid-snake.svg)
