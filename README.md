@@ -17,10 +17,12 @@
 ---
 
 ## 🛠️ Tech Stack
-💻 **Frontend:** HTML, CSS, JavaScript, React  
-⚙️ **Backend:** Node.js, Express  
-🗄️ **Database:** MongoDB, MySQL  
-🔧 **Tools:** Git, GitHub, Postman, VS Code  
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,git,github,cpp,vscode&perline=6" />
+</p>
+
 
 ---
 
