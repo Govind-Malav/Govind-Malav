@@ -1,15 +1,18 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Hey!+I'm+Govind+Malav+👋;Full+Stack+Developer;MERN+Developer;Building+Scalable+Apps&center=true&width=600&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hey!+I'm+Govind+Malav+👋;Full+Stack+Developer;MERN+Stack+Engineer;Building+Scalable+Web+Apps;Open+to+Internships+🚀&center=true&width=650&height=50">
 </p>
-
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
   Hi, I'm Govind Malav
 </h1>
-<!-- <h1 align="center">Hi 👋, I'm Govind Malav</h1> -->
-<h3 align="center">Full Stack Developer | B.Tech CSE | Building Scalable Web Apps</h3>
 
----
+<h3 align="center">
+Full Stack Developer | B.Tech CSE | MERN Stack | India 🇮🇳
+</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450">
+</p>
+
 
 ## 🚀 About Me
 - 🎓 B.Tech Computer Science Student  
@@ -43,7 +46,13 @@
 ---
 
 ## 📊 GitHub Stats
-![Govind's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Govind-Malav&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Govind-Malav&theme=tokyonight&hide_border=true"/>
+</p>
+
 
 ---
 
