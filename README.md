@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Hey!+I'm+Govind+Malav+👋;Full+Stack+Developer;MERN+Stack+Engineer;Building+Scalable+Web+Apps;Open+to+Internships+🚀&center=true&width=650&height=50">
 </p>
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDh5dGU1eWpqNWs2aDFlbmEwcWRkNW5odWdic29nMmh0cmVvb29hNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8od0dlwG9LD7eMbt3p/giphy.gif" width="40">
   Hi, I'm Govind Malav
 </h1>
 
