@@ -10,7 +10,7 @@
 Full Stack Developer | B.Tech CSE | MERN Stack | India 🇮🇳
 </h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZrdHNmMXF2NTZxZGV2Mm8wMml3ZWMycm9neDJrdnppMmdqd295diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UDclWKlmfmq7twI3iJ/giphy.gif" width="450">
 </p>
 ---
 <p align="center">
