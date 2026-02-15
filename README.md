@@ -78,11 +78,6 @@ Full Stack Developer | B.Tech CSE | MERN Stack | India 🇮🇳
 </p>
 ---
 
-## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical)
-
----
-
 ## 🌐 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/govind-malav/  
 - Portfolio: YOUR_LINK  
